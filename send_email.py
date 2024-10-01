@@ -5,7 +5,6 @@ def send_email(message):
     port = 465
 
     username = "armanulhaq10@gmail.com"
-    # Use your App Password instead of the regular password
     password = "nawy qltn liun cbkq"
 
     receiver = "armanulhaq10@gmail.com"

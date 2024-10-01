@@ -12,8 +12,8 @@ with col2:
     st.title("Arman Ul Haq")
     st.info("I am a passionate Python developer eager to learn and create innovative projects. With a deep interest in problem-solving and continuous learning, I enjoy exploring new technologies and applying them to real-world challenges. My journey involves pushing boundaries to enhance my skills and develop impactful solutions.")
 
-content2 = "Below you can find some of the apps I have built in Python. Feel free to contact me!"
-st.write(content2)
+subFooter = "Below you can find some of the apps I have built in Python. Feel free to contact me!"
+st.write(subFooter)
 
 
 col3, empty_col, col4 = st.columns([1.5, 0.5, 1.5])
